@@ -318,7 +318,7 @@ section{
     }
 }
 @media (max-width: 365px){
-            .carousel{
+            .carousel-track{
                 width: 90vw;
 }
 
