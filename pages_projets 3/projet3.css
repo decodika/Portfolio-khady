@@ -338,7 +338,13 @@ section{
     display: flex;
     transition: transform 0.6s ease-in-out;
 }
-
+.carousel{
+    width: 35vw;
+    background: linear-gradient(rgba(0,0,0,.1), var(--main-color));
+    border-radius: 2rem;
+    box-shadow: 0 0 1rem var(--bg-color);
+    overflow: hidden;
+}
 /* Images */
 .slide {
     min-width: 100%;
