@@ -317,6 +317,10 @@ section{
     }
     }
 }
+@media (max-width: 365px){
+            .carousel{
+                width: 90vw;
+}
 
 /* ===============================
    CAROUSEL
