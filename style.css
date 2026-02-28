@@ -31,8 +31,8 @@ padding: 10rem 9% 2rem;
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    padding: 1rem 9%;
+    width: 100%; 
+    padding: 1rem 7%;/*modification*/
     background: var(--bg-color);
     display: flex;
     justify-content: space-between;
@@ -164,7 +164,8 @@ margin: 2rem 0 3rem;
     margin-bottom: 5rem;
 }
 .Services-container .Services-box{
-    flex: 1 1 30rem;
+    /*modification*/
+    flex: 0.5 0.5 24rem;
     background: var(--second-bg-color);
     padding: 3rem 2rem 4rem;
     border-radius: 2rem;
