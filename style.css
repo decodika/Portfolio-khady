@@ -32,7 +32,7 @@ padding: 10rem 9% 2rem;
     top: 0;
     left: 0;
     width: 100%; 
-    padding: 1rem 7%;/*modification*/
+    padding: 1rem 10%;/*modification*/
     background: var(--bg-color);
     display: flex;
     justify-content: space-between;
